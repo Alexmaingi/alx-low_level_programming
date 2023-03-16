@@ -1,7 +1,8 @@
 #include <stdio.h>
 
 /**
- * main - is the entry point
+ * main - Printf statement followed by a new line
+ *
  * Return: Always 0 (Success)
  */
 
